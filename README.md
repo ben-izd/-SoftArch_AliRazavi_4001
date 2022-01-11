@@ -1,6 +1,8 @@
 # -SoftArch_AliRazavi_4001
 Software Architecture Assignments for 1400-1401-1 semester by Ali Razavi 
 
+<div style="direction: rtl;">
+
 ## نیمه اول
 
 ### تعریف معماری نرم‌افزار و نحوه ارزیابی آن
@@ -44,6 +46,8 @@ Software Architecture Assignments for 1400-1401-1 semester by Ali Razavi
 
 هر صفت از یک جدول سناریو عمومی و چند سناریو واقعی (Concrete) تشکیل شده است که برای صفت Usability موارد زیر در نظر گرفته شده:
 
+</div>
+
 | جزء سناریو | مقدار احتمالی |
 | :------------- | -------------: |
 | Source | منبع یا سر منشاء محرک – کاربر حرفه‌ای یا واکنش کاربر به یک رویداد |
@@ -52,6 +56,8 @@ Software Architecture Assignments for 1400-1401-1 semester by Ali Razavi
 | Artifacts | محرک به کدام قسمت اثر می‌گذارد – رابط کاربری |
 | Response | پاسخ یا واکنشی که سیستم می‌دهد – ارائه ویژگی مدنظر کاربر – پیش‌بینی نیاز |
 | Response Measure | نحوه اندازه‌گیری پاسخ – اندازه تعداد خطاها یا زمان یادگیری یا رضایت کاربر یا موارد دیگر |
+
+<div style="direction: rtl;">
 
 مثالی برای سناریو معین:
 
@@ -67,6 +73,8 @@ Software Architecture Assignments for 1400-1401-1 semester by Ali Razavi
 
 برخلاف اکثر صفات کیفی که رسیدن به سطح بالایی از آنها نیاز به تلاش و صرف هزینه است، در این صفت با کم کردن هزینه می‌تواند به سطح قابل قبولی رسید. البته منظور حفظ تعادلی است که مشتریانی که توانایی مالی دارند را به سمت استفاده از نسخه قفل شکسته سوق ندهد و از آن طرف امکان شکستن آن به افرادی که شرایط مورد نیاز را ندارند، فراهم کند.
 
+</div>
+  
 | جزء سناریو | مقدار احتمالی |
 | :------------- | ------------: |
 | Source | هکرها |
@@ -75,6 +83,8 @@ Software Architecture Assignments for 1400-1401-1 semester by Ali Razavi
 | Artifacts | احراز هویت - تائید لایسنس - تولید سریال |
 | Response | قبول هویت - قبول لایسنس |
 | Response Measure | در سیستم: ارسال مشخصات کاربر <br> خارج از سیستم: فاصله عرضه و شکسته شدن قفل در انجمن‌های تخصصی - بررسی محتوا با تمرکز این محصول در زبان‌ها و مناطق مختلف دنیا |
+
+<div style="direction: rtl;">
 
 سناریو معین:
 
@@ -89,6 +99,6 @@ Software Architecture Assignments for 1400-1401-1 semester by Ali Razavi
 
 
 
-
+</div>
 
 
